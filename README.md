@@ -1,1 +1,1 @@
-# agent-demo
+# Demo Playground
